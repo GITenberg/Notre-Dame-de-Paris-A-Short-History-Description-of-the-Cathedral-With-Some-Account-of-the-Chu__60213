@@ -1,0 +1,31 @@
+_repo: Notre-Dame-de-Paris-A-Short-History-Description-of-the-Cathedral-With-Some-Account-of-the-Chu__60213
+_version: 0.0.1
+alternative_title: The cathedral church of Notre Dame, Paris
+creator:
+  author:
+    agent_name: Hiatt, Charles
+    aliases:
+    - Hiatt, Charles T. J. (Charles Thomas John)
+    - Hiatt, Charles Thomas J. (Charles Thomas John)
+    birthdate: 1869
+    deathdate: 1904
+    gutenberg_agent_id: '43353'
+    url: http://www.gutenberg.org/2009/agents/43353
+description: ''
+gutenberg_issued: '2019-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60213'
+  lccn: 03012852
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bell's handbooks to continental churches.
+subjects:
+- !lcc 'NA'
+- !lcsh 'Notre-Dame de Paris (Cathedral)'
+- GITenberg
+title: "Notre Dame de Paris\r\nA Short History & Description of the Cathedral, With\
+  \ Some Account of the Churches Which Preceded It"
+url: http://www.gutenberg.org/ebooks/60213
